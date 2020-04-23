@@ -1,0 +1,1 @@
+# Vue-QR-Scanner
